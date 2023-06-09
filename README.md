@@ -59,4 +59,4 @@ Roboto
 Hint
 Use the Bootstrap class name justify-content-between to get equal space between the HTML elements.
 
-SITE:moviepagewi.ccbp.tech
+SITE: https://moviepagewi.ccbp.tech/
